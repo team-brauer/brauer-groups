@@ -1,0 +1,49 @@
+K is:
+Number Field in zeta5 with defining polynomial x^4 + x^3 + x^2 + x + 1 with zeta5 = -5/1633824*Lgen1^14 - 809/8169120*Lgen1^12 - 4477/2723040*Lgen1^10 - 22571/1361520*Lgen1^8 - 5459/45384*Lgen1^6 - 4195/7564*Lgen1^4 - 3093/1891*Lgen1^2 - 4255/1891
+
+
+L is: 
+Number Field in mu with defining polynomial x^4 + (6*zeta5^3 - 6*zeta5^2 - 6*zeta5 + 6)*x^2 + 24*zeta5^3 - 12*zeta5 - 12 over its base field
+
+
+E is: 
+Elliptic Curve defined by y^2 = x^3 + 10 over Number Field in mu with defining polynomial x^4 + (6*zeta5^3 - 6*zeta5^2 - 6*zeta5 + 6)*x^2 + 24*zeta5^3 - 12*zeta5 - 12 over its base field
+
+
+P is: 
+(-zeta5^3*mu^2 - 6*zeta5^3 - 6*zeta5 + 2 : (-zeta5^3 + 1/2*zeta5^2 - 1/2*zeta5 + 1)*mu^3 + (3*zeta5^3 + 6*zeta5^2 - 9*zeta5 + 15)*mu : 1)
+
+
+Q is: 
+(zeta5^3*mu^2 + 6*zeta5^3 + 6*zeta5^2 + 6*zeta5 + 2 : (1/2*zeta5^2 - 1/2*zeta5)*mu^3 + (3*zeta5^3 + 6*zeta5^2 + 3*zeta5 + 3)*mu : 1)
+
+
+alpha is: 
+(-16188/319831*zeta5^3 + 15910/319831*zeta5^2 - 4980/319831*zeta5 + 14076/319831)*mu^3 + (32098/319831*zeta5^3 + 11208/319831*zeta5^2 + 30264/319831*zeta5 + 16188/319831)*mu^2 + (-70930/319831*zeta5^3 + 67262/319831*zeta5^2 - 199162/319831*zeta5 + 273158/319831)*mu + 138192/319831*zeta5^3 - 128232/319831*zeta5^2 + 344088/319831*zeta5 + 390761/319831
+
+
+alpha is N_PQ of: 
+(mu + zeta5  ,  zeta5
+
+
+Gal(L/K) consists of the following automorphisms: 
+[
+Relative number field endomorphism of Number Field in mu with defining polynomial x^4 + (6*zeta5^3 - 6*zeta5^2 - 6*zeta5 + 6)*x^2 + 24*zeta5^3 - 12*zeta5 - 12 over its base field
+  Defn: mu |--> mu
+        zeta5 |--> zeta5,
+Relative number field endomorphism of Number Field in mu with defining polynomial x^4 + (6*zeta5^3 - 6*zeta5^2 - 6*zeta5 + 6)*x^2 + 24*zeta5^3 - 12*zeta5 - 12 over its base field
+  Defn: mu |--> -mu
+        zeta5 |--> zeta5,
+Relative number field endomorphism of Number Field in mu with defining polynomial x^4 + (6*zeta5^3 - 6*zeta5^2 - 6*zeta5 + 6)*x^2 + 24*zeta5^3 - 12*zeta5 - 12 over its base field
+  Defn: mu |--> (1/2*zeta5^2 + 1/2*zeta5 + 1/2)*mu^3 + (-zeta5^3 - zeta5^2 + 4)*mu
+        zeta5 |--> zeta5,
+Relative number field endomorphism of Number Field in mu with defining polynomial x^4 + (6*zeta5^3 - 6*zeta5^2 - 6*zeta5 + 6)*x^2 + 24*zeta5^3 - 12*zeta5 - 12 over its base field
+  Defn: mu |--> (-1/2*zeta5^2 - 1/2*zeta5 - 1/2)*mu^3 + (zeta5^3 + zeta5^2 - 4)*mu
+        zeta5 |--> zeta5
+]
+
+
+t_2P is: 
+([((-zeta15^7 + 2*zeta15^6 - zeta15^5 + zeta15^3 - 2*zeta15^2 + zeta15)*nu)*x + y + (-zeta15^7 - 2*zeta15^6 + zeta15^4 - zeta15^3 + 2*zeta15^2 - 3*zeta15)*nu, ((-zeta15^7 + 2*zeta15^6 - zeta15^5 + zeta15^3 - 2*zeta15^2 + zeta15)*nu)*x + y + (-zeta15^7 - 2*zeta15^6 + zeta15^4 - zeta15^3 + 2*zeta15^2 - 3*zeta15)*nu, x - 4*zeta15^7 + 2*zeta15^6 + 4*zeta15^5 - 2*zeta15^4 + 4*zeta15^3 - 4*zeta15^2 - 4*zeta15 + 4], [((-zeta15^6 + 2*zeta15^5 - zeta15^4 + zeta15^2 - 2*zeta15 + 2)*nu)*x + y + (-zeta15^7 - zeta15^4 + 3*zeta15^3 - 4*zeta15^2 + 3*zeta15 - 2)*nu])
+
+
